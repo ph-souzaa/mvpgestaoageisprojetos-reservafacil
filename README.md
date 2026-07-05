@@ -8,7 +8,7 @@ MVP Canvas, backlog (produto e sprint), wireframes e vídeo de apresentação.
 
 ## Vídeo de apresentação
 
-▶️ **[Apresentação no YouTube](hhtps://)**
+▶️ **[Apresentação no YouTube](https://youtu.be/JNryC2iq1gM)**
 
 > _Link a ser adicionado._
 
