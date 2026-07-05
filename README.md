@@ -10,8 +10,6 @@ MVP Canvas, backlog (produto e sprint), wireframes e vídeo de apresentação.
 
 ▶️ **[Apresentação no YouTube](https://youtu.be/JNryC2iq1gM)**
 
-> _Link a ser adicionado._
-
 ## Estrutura do repositório
 
 | Arquivo / pasta | Conteúdo |
